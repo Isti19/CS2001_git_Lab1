@@ -26,3 +26,8 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1923029| Avengers Infinity War | 2018
+1923029| Avengers Endgame | 2019
+1923029| Black Panther | 2018
+1923029| The Fate of the Furious | 2017
+1923029| John Wick | 2015
